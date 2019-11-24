@@ -1,0 +1,14 @@
+.nav-list {
+  font-size: 30px;
+}
+
+.nav-list li {
+  list-style: none;
+  color: #4d4dae;
+}
+
+.nav-list li:hover {
+  background-color: yellow;
+  cursor: pointer;
+}
+/*# sourceMappingURL=hp.css.map */
