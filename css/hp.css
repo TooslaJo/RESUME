@@ -3,8 +3,10 @@
 }
 
 .nav-list li {
+  display: inline-block;
   list-style: none;
   color: #4d4dae;
+  padding: 10px 20px;
 }
 
 .nav-list li:hover {
